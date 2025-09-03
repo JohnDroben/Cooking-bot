@@ -1,0 +1,12 @@
+# Telegram Bot Token (получите у @BotFather)
+TELEGRAM_TOKEN=7658530463:AAFF5lzFdl3nIUAverLA5_EsDvCKBR_jo-s
+
+# TheMealDB API - бесплатный API без ключа
+# Документация: https://www.themealdb.com/api.php
+
+# VK API Token (опционально, для поиска видео на VK)
+# Получите на https://vk.com/dev/access_token
+VK_API_TOKEN=your_vk_api_token_here
+
+# Rutube API Token (опционально, если доступен)
+RUTUBE_API_TOKEN=your_rutube_api_token_here
